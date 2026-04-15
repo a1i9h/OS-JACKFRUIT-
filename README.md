@@ -1,6 +1,6 @@
-**Team: Aishwarya A (AM001) ; K C Nandan (AM072)
+**Team: Aishwarya A (AM001) ; K C Nandan (AM072)**
 
-PPT named 'MultiContainerRuntime.pdf' \& the SCREENSHOTS are in 'screenshots.pdf'**
+PPT named 'MultiContainerRuntime.pdf' \& the SCREENSHOTS are in 'screenshots.pdf'
 A lightweight container runtime built on Linux namespaces, with a kernel module for memory enforcement and CFS scheduling experiments.
 
 \#commands
